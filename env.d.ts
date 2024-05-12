@@ -10,3 +10,7 @@ declare module '@vue/theme/highlight' {
   const createHighlighter: () => Promise<(input: string) => string>
   export default createHighlighter
 }
+
+
+// agregando un dato
+// Este es un nuevo parrafo
